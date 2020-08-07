@@ -1,0 +1,1 @@
+# PerfectMoney.Core for ASP.NET Core web application
